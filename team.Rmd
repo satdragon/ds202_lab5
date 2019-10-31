@@ -1,0 +1,12 @@
+---
+title: "DS202 Lab5"
+author: "Alex Thompson"
+date: "10/31/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
